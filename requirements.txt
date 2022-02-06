@@ -1,0 +1,3 @@
+pydantic
+driconfig
+prometheus_client
